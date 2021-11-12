@@ -1,10 +1,10 @@
 [![GitHub license](https://img.shields.io/badge/LICENSE-MPL--2.0-green?style=for-the-badge)](http://mozilla.org/MPL/2.0/) [![](http://cf.way2muchnoise.eu/372007.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/super-solar-panel)[![](http://cf.way2muchnoise.eu/versions/372007.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/super-solar-panel)
 
-### SuperSolarPanels. Remastered
+### Industrial Upgrade
 
 Our mod is about new ways of generating energy. Not that new, but very progressive and often expensive.
 
-Photonic, Singular, Spectral - all this is about SSP. Do you think that a photon cannot be compressed into an ingot? We
+Photonic, Singular, Spectral - all this is about IU. Do you think that a photon cannot be compressed into an ingot? We
 will prove the opposite!
 
 In addition to Night, Day, etc. Panels. The mod adds improved quantum armor, new ores and many other items.
@@ -18,7 +18,7 @@ change the type of panel or output RF energy
 
 We are looking for translators and proofreaders If you are confident in your knowledge of the language and are ready to translate the mod, DM *spinel#2440* in Discord!
 
-*Our Discord: https://discord.gg/PvJ6d7Afbn* ![](https://amity.is-inside.me/EgpfZzdP.png)
+*Discord: https://discord.gg/PvJ6d7Afbn* ![](https://amity.is-inside.me/EgpfZzdP.png)
 
 **Be careful, the content varies greatly between MC versions!**
 
