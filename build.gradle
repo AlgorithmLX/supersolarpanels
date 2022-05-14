@@ -26,8 +26,7 @@ group= "com.denfop"
 archivesBaseName = "IndustrialUpgrade"
 apply plugin: 'java'
 compileJava {
-    sourceCompatibility = '1.8'
-    targetCompatibility = '1.8'
+    toolchain.languageVersion = JavaLanguageVersion.of(8)
 }
 //tasks.withType(JavaCompile) {
 //    options.compilerArgs += ['-Xlint:deprecation', '-Xlint:unchecked']
